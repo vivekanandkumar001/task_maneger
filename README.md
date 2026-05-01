@@ -165,15 +165,3 @@ taskflow/
 |---|---|---|
 | GET | `/api/dashboard` | Stats + my tasks |
 
-## 📹 Demo Video Checklist
-- [ ] Sign up as a new user
-- [ ] Create a project
-- [ ] Add a team member by email
-- [ ] Create tasks with different priorities/statuses
-- [ ] Show kanban board with status updates
-- [ ] Show dashboard with progress bars
-- [ ] Show role-based access (member can't delete)
-
----
-
-Built with ❤️ — TaskFlow
